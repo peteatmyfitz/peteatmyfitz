@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on anything I can
 - 🤔 I’m looking for help with automating tedious things
 - 💬 Ask me about how to use LLMs to help with coding
+- ⚡ Fun fact: GitHub is handy for collaboration
 <!--
 **peteatmyfitz/peteatmyfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
